@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&=text=KIM%20SEUNG%20BEOM)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&=text=KIM%20SEUNG%20BEOM&fontSize=40)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceisice&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iceisice)](https://solved.ac/iceisice/)
