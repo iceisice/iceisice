@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
-
+![SQL](https://img.shields.io/badge/SQL-239190.svg?&style=for-the-badge&logo=SQL&logoColor=white)
 
 ### Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
