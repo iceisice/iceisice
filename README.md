@@ -3,8 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceisice&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iceisice)](https://solved.ac/iceisice/)
 
-# Skills
-### Languages
+## 🛠 **Skills**
+### 🔤 **Languages**
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-239190.svg?&style=for-the-badge&logo=SQL&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Tools
+### 🛠 **Tools**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -23,6 +23,6 @@
 
 
 
-## MAIL
+## 📬 **Mail**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iceisice4180@gmail.com)](mailto:iceisice4180@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:iceisice@naver.com)](mailto:iceisice@naver.com)
